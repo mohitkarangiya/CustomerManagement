@@ -1,0 +1,20 @@
+input:valid {
+    border-left: 5px solid green;
+}
+
+input:invalid {
+    border-left: 5px solid red;
+}
+
+.active {
+    background: white;
+    border-radius: 5px;
+}
+
+.active .nav-link {
+    color: #007bff !important;
+}
+
+.nav-link{
+    color: white !important;
+}
